@@ -1,5 +1,5 @@
 title: My website # The top-level website title
 
-remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
+remote_theme: pages-themes/hacker@v0.2.0 # Establishes a theme
 plugins:
 - jekyll-remote-theme
