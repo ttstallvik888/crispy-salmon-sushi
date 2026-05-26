@@ -1,0 +1,6 @@
+title: My website # The top-level website title
+description: Demooooo for workshop # A tagline that usually appears in your site header
+
+remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
+plugins:
+- jekyll-remote-theme
